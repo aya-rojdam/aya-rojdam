@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aya 👋
 
-<!--
-**aya-rojdam/aya-rojdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network & Cybersecurity Engineer (ENSAK, class of 2026).
 
-Here are some ideas to get you started:
+I work across the security stack: network architecture, systems hardening, vulnerability assessment, monitoring and detection, and security automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Network security:** firewall administration, segmentation, VPN, SD-WAN (FortiGate, Sophos XG)
+- **Vulnerability assessment:** infrastructure and web application scanning, risk-based prioritization (Tenable ecosystem, CVSS/EPSS)
+- **Systems hardening & compliance:** security baselines, configuration auditing, compliance frameworks (CIS Benchmarks, ISO 27001)
+- **Monitoring & detection:** SIEM, network analysis, log analysis (Wazuh, Zabbix, Wireshark)
+- **Security automation:** scripting, API integrations, workflow orchestration (Python, PowerShell)
+
+## 📌 Current focus
+
+- Security automation tooling
+- Systems hardening and compliance-as-code
+- Multi-zone security homelab (firewalls, SIEM, vulnerable targets)
+- AI security and adversarial machine learning
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/AYA-ROJDAM](https://www.linkedin.com/in/aya-rojdam-9629bb242/)
+- Email: aya.rojdam@gmail.com
+- 📍 Rabat, Morocco
